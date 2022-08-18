@@ -1,5 +1,5 @@
 # Pharmaceutical_chamber
-# Pharmaceutical-chamber
+
 ### **Project objective:**
 During the manufacturing of the tablets, the temperature of the tablets has to be maintained between -40 and -30 degrees Celsius. The government declared the following rules for manufacturing these tablets:
 
